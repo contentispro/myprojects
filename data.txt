@@ -1,4 +1,4 @@
-download_url=http://example.com/cs2.dll
-update_url=http://example.com/loader_update.exe
+download_url=base dll url
+update_url=loader urlsi
 announcement=HydraCore Free bir üründür satın aldıysanız dolandırıldınız.
 required_loader_version=1.0
